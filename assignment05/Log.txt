@@ -1,0 +1,10 @@
+2017.03.14 (4hrs)
+- Objective 1 (30min; COMPLETED)
+- Objective 2 (1hr; COMPLETED)
+	- Needed to review preg_match() a lot
+- Objective 3 (30min; COMPLETED)
+- Objective 4 (20min; COMPLETED)
+	- Not sure if anything needs to be added to address Username Enumeration
+- Objective 5 (1hr 30min; COMPLETED)
+- Objective 6 (5min; COMPLETED)
+- Objective 7 (5min; COMPLETED)
